@@ -1,0 +1,13 @@
+.content {
+  grid-area: c;
+  background-color: rgb(34, 141, 190);
+
+}
+
+.content img {
+  width: 100%;
+}
+
+.item {
+  color: paleturquoise;
+}
